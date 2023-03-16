@@ -6,7 +6,7 @@ Objective:
 - The objective of the Hackathon is to create innovative  technology solution that can address pressing social issues and improve the lives of people.
 
 Date and Venue: 
-- The Hackathon will be held on March 14-23, 2023. The venue will be online.
+- The Hackathon will be held on `March 14-23, 2023`. The venue will be online.
 
 Participants: 
 - The Hackathon is open to all Power learn Project students regardless of the cohort and outside competitors.
